@@ -1,0 +1,4 @@
+Options All -Indexes
+RewriteCond %{ENV:REDIRECT_STATUS} 100
+RewriteRule .* – [L]
+ErrorDocument 404 /resize-image/dispatcher-image.php
