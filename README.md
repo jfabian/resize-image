@@ -3,6 +3,16 @@ Redimensionador de Imagenes
 
 Un script para redimensionar imagenes usando los comandos del ImageMagick, algunos comandos PHP y el .htaccess
 
+Requisitos
+----------
+
+Para que el script pueda funcionar se necesita lo siguiente:
+
+* ImageMagick
+* Apache (mod_rewrite)
+* PHP
+
+
 Instalacion
 -----------
 
